@@ -14,4 +14,4 @@ client.send(b'GET / HTTP/1.1\r\nHost: google.com\r\n\r\n') # envie algum dado
 response = client.recv(4096) # recebemos algum tipo de dado
 print(response.decode('utf-8')) # imprimimos atela
 
-client.close()a
+client.close()
