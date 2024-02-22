@@ -1,0 +1,1 @@
+Nesse aba, vamos utilizar a biblioteca netifaces para o Python poder iterar pelos endereços e descobrir os detalhes sobre qualquer sistema.
